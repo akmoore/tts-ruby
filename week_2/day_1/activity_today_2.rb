@@ -21,7 +21,7 @@ def activity_selector
     puts "The answer to life!" if temp == 42
 
     # Ternary operator statement
-        # if temp  == -459
+        if temp  == -459
         #     puts "frozen"
         # else
         #     puts "still goind"
