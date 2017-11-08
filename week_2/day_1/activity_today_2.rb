@@ -11,7 +11,7 @@ def activity_selector
     when 40...50
         puts "Let's stay inside and read"
     when 0..39
-        puts "Let's cozy up by the fire"
+        puts "Let's cozy up by the fire."
     else
         puts "What planet is that?"
         activity_selector
